@@ -15,6 +15,11 @@ import springfox.documentation.spring.web.plugins.Docket;
 /**
  * The Class SwaggerConfig.
  */
+
+//스웨거 오류 부분 해결
+//1. 기존 설치 2.9 버전
+//2. 현재 사용 버전 3.0버전
+
 @Configuration
 @EnableWebMvc
 public class swaggerConfig {
